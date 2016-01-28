@@ -23,7 +23,7 @@
 //realizing it. But with that out of the way, let's talk about recursion!
 
 //First and foremost, what is it? It's a couple of things. But we're going to work through
-//them one at a time. For one thing, recursion acts as a loop. For example:
+//them one at a time. For one thing, recursion acts as a loop. For example: 
 
 var loop15 = function(num){
 	if(num >== 15){
